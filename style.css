@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+header {
+    background-color: #ff0000;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.video-section {
+    margin: 20px;
+}
